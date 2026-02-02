@@ -11,7 +11,7 @@ _Digital Craftsman (Developer / Programmer)_
 <br />
 
 <!--Start Intro-->
-<p align="left">I am a Mobile and Backend Developer and Machine Learning Enthusiast with a huge love for Dart, Node.js, Django, RDBMS, REST API and Algo problem solving. </p>
+<p align="left">I am a Mobile and Backend Developer and AI Enthusiast with a huge love for Dart, Node.js, Django, RDBMS, REST API and Algo problem solving. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
