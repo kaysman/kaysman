@@ -2,9 +2,11 @@
 
 [English](README.md) · Türkçe
 
-**Lead Flutter Mühendisi.** Üretim kalitesinde uygulamalar ve onların arkasındaki backend sistemlerini 6+ yıldır geliştiren kıdemli mobil geliştirici. Web3, fintech ve lojistik alanlarında çalışıyorum. Temel teknolojilerim: Flutter, Dart, Rust, PostgreSQL ve Docker.
+Mobil uygulamalar ve arkalarındaki backend sistemlerini geliştiriyorum — önde Flutter ve Dart, arkada Rust ve Node.js, altta PostgreSQL ve Docker. Altı yıldır, çoğunlukla Web3, fintech ve lojistik alanlarında. Bir özelliği baştan sona sahiplenmeyi seviyorum: arayüz, API, veritabanı, dağıtım.
 
-Uzaktan, çok disiplinli ekiplerde verimli çalışırım ve 2018 Uluslararası Matematik Olimpiyatı bronz madalya sahibiyim — aynı problem çözme yaklaşımını her projeye taşıyorum. Mobil veya Web3 ürünleri geliştiriyorsanız, iletişime geçelim.
+Günlük işimde daha hızlı ilerlemek için yapay zeka araçları ve yerel LLM'ler kullanıyorum. 2018 Uluslararası Matematik Olimpiyatı'nda bronz madalya sahibiyim — çoğu probleme hâlâ aynı şekilde yaklaşıyorum.
+
+Uzaktan çalışmaya ve yer değişikliğine açığım.
 
 💼 [LinkedIn](https://www.linkedin.com/in/atabek-kadirov) · ✉️ [E-posta](mailto:atabek.iuhd@gmail.com) · ✈️ [Telegram](https://t.me/ikaysin)
 
@@ -30,4 +32,10 @@ Her projenin detayları — teknoloji yığını, rol, ekran görüntüleri — 
 
 ## 🔧 Açık kaynak
 
-_Yakında._
+🏃 [healthy_hour](https://github.com/kaysman/healthy_hour) - İş-yaşam dengesi için sağlık uygulaması: aktivite takibi, hareket molası hatırlatıcıları ve sağlık izleme
+
+📮 [api-catalog](https://github.com/kaysman/api-catalog) - Express, NestJS ve Rust route'larınızdan üretilen, Postman tarzı API konsolu. Spec dosyası gerekmez
+
+🌍 [lsync](https://github.com/kaysman/lsync) - Google Sheets'teki çevirileri doğrudan Flutter ve React projelerine senkronize eden Rust CLI aracı
+
+📡 [modem-sms-listener](https://github.com/kaysman/modem-sms-listener) - USB GSM modeme gelen SMS'leri dinler, mesaj içeriğini ayrıştırır ve konumu bir NATS sunucusuna yayınlar

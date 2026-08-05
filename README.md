@@ -2,9 +2,11 @@
 
 English · [Türkçe](README.tr.md)
 
-**Lead Flutter Engineer.** Senior mobile developer with 6+ years building production-grade apps and the backends behind them. I work across Web3, fintech, and logistics. My core stack: Flutter, Dart, Rust, PostgreSQL, and Docker.
+I build mobile apps and the backends behind them — Flutter and Dart on the front, Rust and Node.js on the back, PostgreSQL and Docker underneath. Six years of it, mostly in Web3, fintech, and logistics. I like owning a feature end to end: UI, API, database, deployment.
 
-I work well in remote, cross-functional teams, and I'm a bronze medalist at the 2018 International Mathematics Olympiad — I bring that same problem-solving to every project. Let's connect if you're building mobile or Web3 products.
+I use AI tools and local LLMs daily to move faster. Bronze medalist at the 2018 International Mathematics Olympiad — I still approach most problems the same way.
+
+Open to remote and relocation roles.
 
 💼 [LinkedIn](https://www.linkedin.com/in/atabek-kadirov) · ✉️ [Email](mailto:atabek.iuhd@gmail.com) · ✈️ [Telegram](https://t.me/ikaysin)
 
@@ -30,4 +32,10 @@ More detail on each — stack, role, screenshots — in the [full portfolio](htt
 
 ## 🔧 Open source
 
-_Coming soon._
+🏃 [healthy_hour](https://github.com/kaysman/healthy_hour) - Wellness app for work-life balance: activity tracking, smart reminders for movement breaks, and health monitoring
+
+📮 [api-catalog](https://github.com/kaysman/api-catalog) - Postman-style API console, generated from your Express, NestJS, and Rust routes. No spec files
+
+🌍 [lsync](https://github.com/kaysman/lsync) - Rust CLI that syncs translations from Google Sheets straight into Flutter and React projects
+
+📡 [modem-sms-listener](https://github.com/kaysman/modem-sms-listener) - Listens for incoming SMS on a USB GSM modem, parses the message payload, and publishes the location to a NATS server
