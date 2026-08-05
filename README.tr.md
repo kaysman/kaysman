@@ -4,7 +4,7 @@
 
 Mobil uygulamalar ve arkalarındaki backend sistemlerini geliştiriyorum — önde Flutter ve Dart, arkada Rust ve Node.js, altta PostgreSQL ve Docker. Altı yıldır, çoğunlukla Web3, fintech ve lojistik alanlarında. Bir özelliği baştan sona sahiplenmeyi seviyorum: arayüz, API, veritabanı, dağıtım.
 
-Günlük işimde daha hızlı ilerlemek için yapay zeka araçları ve yerel LLM'ler kullanıyorum. 2018 Uluslararası Matematik Olimpiyatı'nda bronz madalya sahibiyim — çoğu probleme hâlâ aynı şekilde yaklaşıyorum.
+Günlük işimde daha hızlı ilerlemek için yapay zeka araçları ve yerel LLM'ler kullanıyorum. 2018 Uluslararası Açık Matematik Olimpiyatı'nda bronz madalya sahibiyim — çoğu probleme hâlâ aynı şekilde yaklaşıyorum.
 
 Uzaktan çalışmaya ve yer değişikliğine açığım.
 
