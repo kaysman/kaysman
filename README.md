@@ -1,12 +1,12 @@
 # Hi, I'm Atabek 👋
 
+Seattle, WA. Open to remote and hybrid roles.
+
 English · [Türkçe](README.tr.md)
 
 I build mobile apps and the backends behind them — Flutter and Dart on the front, Rust and Node.js on the back, PostgreSQL and Docker underneath. Six years of it, mostly in Web3, fintech, and logistics. I like owning a feature end to end: UI, API, database, deployment.
 
-I use AI tools and local LLMs daily to move faster. Bronze medalist at the 2018 International Open Mathematics Olympiad — I still approach most problems the same way.
-
-Open to remote and relocation roles.
+I use AI tools and local LLMs daily to move faster.
 
 💼 [LinkedIn](https://www.linkedin.com/in/atabek-kadirov) · ✉️ [Email](mailto:atabek.iuhd@gmail.com) · ✈️ [Telegram](https://t.me/ikaysin)
 
